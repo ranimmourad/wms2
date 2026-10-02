@@ -1,0 +1,10 @@
+{
+  "name": "wms-company-trio-catering",
+  "version": "1.0.0",
+  "private": true,
+  "description": "WMS Company · TRIO — Outside Catering Services (Tunisie 2026). Static marketing website.",
+  "scripts": {
+    "dev": "npx serve . -l 3000",
+    "preview": "npx serve ."
+  }
+}
